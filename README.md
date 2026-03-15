@@ -95,7 +95,7 @@ An AI-powered learning platform focused on making education easier and more acce
 
 ### 🎯 Vision
 
-My goal is to create technology that **opens doors** — helping individuals showcase their skills, connect with opportunities, and grow through well-designed digital platforms.
+My goal is to create technology that **opens doors** helping individuals showcase their skills, connect with opportunities, and grow through well-designed digital platforms.
 
 ---
 
