@@ -5,7 +5,7 @@
 ### Turning Ideas into Impactful Digital Products
 
 *I design and build user-focused platforms that solve real problems.*  
-*From concept to execution — scalable, meaningful digital experiences with purpose.*
+*From concept to execution scalable, meaningful digital experiences with purpose.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akashnethmina.online-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://akashnethmina.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Nethmina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-nethmina)
@@ -18,7 +18,7 @@
 
 I'm a passionate **Full Stack Developer** driven by problem-solving and innovation. I enjoy transforming ideas into real-world digital products that are clean, efficient, and impactful.
 
-My work focuses on building platforms that **empower people** — whether through technology, education, or opportunity. I value clarity in design, strength in logic, and purpose in every product I create.
+My work focuses on building platforms that **empower people** whether through technology, education, or opportunity. I value clarity in design, strength in logic, and purpose in every product I create.
 
 > *"I'm constantly learning, experimenting, and refining my craft to build better systems and smarter solutions."*
 
