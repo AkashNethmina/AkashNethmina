@@ -99,20 +99,6 @@ My goal is to create technology that **opens doors** — helping individuals sho
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 Have an idea, project, or opportunity? I'm always open to collaboration and meaningful conversations.
@@ -122,12 +108,4 @@ Have an idea, project, or opportunity? I'm always open to collaboration and mean
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://akashnethmina.online)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-nethmina)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views"/>
-  <br/>
-  <sub>Made with ❤️ by Akash Nethmina</sub>
 </div>
